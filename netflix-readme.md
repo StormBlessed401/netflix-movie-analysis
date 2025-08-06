@@ -206,7 +206,7 @@ This project is released under the MIT License, making it free for educational a
 
 Questions? Ideas? Found something interesting in the data? I'd love to hear from you!
 
-- **Email**: bhardwajsaurabh402@gmail.com
+- **Email**: bhardwajsaurabh401@gmail.com
 - **Location**: Patna, India
 - **Status**: Currently pursuing MCA in Data Analysis and Machine Learning
 
